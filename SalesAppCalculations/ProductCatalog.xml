@@ -1,0 +1,34 @@
+<ProductCatalog>
+	<Product>
+		<Name>Book</Name>
+		<Category>Books</Category>
+	</Product>
+	<Product>
+		<Name>Imported Box of Chocolates</Name>
+		<Category>Food</Category>
+	</Product>
+	<Product>
+		<Name>Box of Chocolates</Name>
+		<Category>Food</Category>
+	</Product>
+	<Product>
+		<Name>Chocolate bar</Name>
+		<Category>Food</Category>
+	</Product>
+	<Product>
+		<Name>Music CD</Name>
+		<Category>Other</Category>
+	</Product>
+	<Product>
+		<Name>Imported Bottle of Perfume</Name>
+		<Category>Other</Category>
+	</Product>
+	<Product>
+		<Name>Bottle of Perfume</Name>
+		<Category>Other</Category>
+	</Product>
+	<Product>
+		<Name>Packet of Headache Pills</Name>
+		<Category>Medical</Category>
+	</Product>
+</ProductCatalog>
